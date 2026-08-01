@@ -1,1 +1,0 @@
-# mine-a-mountain
